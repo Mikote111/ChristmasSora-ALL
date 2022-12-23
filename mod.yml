@@ -273,17 +273,17 @@ assets:
   method: copy
   source:
   - name: remastered/obj/H_EX500_XM.mdlx/-5.dds
-- name: remastered/obj/H_EX500_XM_HTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_XM_HTLF.mdlx/-0.dds
   platform: pc
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_HTLF.mdlx/-0.dds
-- name: remastered/obj/H_EX500_XM_HTLF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_XM_HTLF.mdlx/-1.dds
   platform: pc
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_HTLF.mdlx/-1.dds
-- name: remastered/obj/H_EX500_XM_HTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_XM_HTLF.mdlx/-2.dds
   platform: pc
   method: copy
   source:
