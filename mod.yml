@@ -21,20 +21,6 @@ assets:
     source:
     - name: CBase.tim
 
-- name: obj/P_EX100_XM_HTLF.mdlx
-  method: binarc
-  source:
-  - name: p_ex
-    type: model
-    method: copy
-    source:
-    - name: CSora.model
-  - name: tim_
-    type: modeltexture
-    method: copy
-    source:
-    - name: Canti.tim
-
 - name: obj/H_EX500_XM.mdlx
   multi:
     - name: obj/H_EX500_XM_BTLF.mdlx
@@ -273,18 +259,3 @@ assets:
   method: copy
   source:
   - name: remastered/obj/H_EX500_XM.mdlx/-5.dds
-- name: remastered/obj/P_EX100_XM_HTLF.mdlx/-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_XM_HTLF.mdlx/-0.dds
-- name: remastered/obj/P_EX100_XM_HTLF.mdlx/-1.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_XM_HTLF.mdlx/-1.dds
-- name: remastered/obj/P_EX100_XM_HTLF.mdlx/-2.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_XM_HTLF.mdlx/-2.dds
