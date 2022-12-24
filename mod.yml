@@ -186,6 +186,19 @@ assets:
     source:
     - name: HCBase.tim
 
+- name: remastered/obj/P_EX100.a.us
+  multi:
+    - name: remastered/obj/P_EX100_NM.a.us
+    - name: remastered/obj/P_EX100_TR.a.us
+    - name: remastered/obj/P_EX100_WI.a.us
+    - name: remastered/obj/AL14_PLAYER.a.us
+    - name: remastered/obj/P_EX100.a.us
+    - name: remastered/obj/P_EX100_AL_CARPET.a.us
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM.a.us
+    type: internal
+
 - name: remastered/obj/P_EX100_XM.a.us/-8.dds
   multi:
     - name: remastered/obj/AL14_PLAYER.a.us/-8.dds
