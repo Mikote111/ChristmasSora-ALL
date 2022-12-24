@@ -626,6 +626,16 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM.a.us/BTLF.dds
+- name: remastered/obj/P_EX100_XM_HTLF.a.us/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100_HTLF.a.us/-4.dds
+    - name: remastered/obj/P_EX100_NM_HTLF.a.us/-4.dds
+    - name: remastered/obj/P_EX100_TR_HTLF.a.us/-4.dds
+    - name: remastered/obj/P_EX100_WI_HTLF.a.us/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM.a.us/HTLF.dds
 - name: remastered/obj/P_EX100_XM_KH1F.a.us/-9.dds
   multi:
     - name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
