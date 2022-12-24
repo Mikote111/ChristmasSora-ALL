@@ -64,6 +64,73 @@ assets:
     source:
     - name: CBase.tim
 
+- name: obj/P_EX100.a.us
+  multi:
+    - name: obj/P_EX100_NM.a.us
+    - name: obj/P_EX100_TR.a.us
+    - name: obj/P_EX100_WI.a.us
+    - name: obj/AL14_PLAYER.a.us
+    - name: obj/P_EX100.a.us
+    - name: obj/P_EX100_AL_CARPET.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM.a.us
+    type: internal
+- name: obj/P_EX100_BTLF.a.us
+  multi:
+    - name: obj/P_EX100_NM_BTLF.a.us
+    - name: obj/P_EX100_TR_BTLF.a.us
+    - name: obj/P_EX100_WI_BTLF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_BTLF.a.us
+    type: internal
+- name: obj/P_EX100_HTLF.a.us
+  multi:
+    - name: obj/P_EX100_NM_HTLF.a.us
+    - name: obj/P_EX100_TR_HTLF.a.us
+    - name: obj/P_EX100_WI_HTLF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_HTLF.a.us
+    type: internal
+- name: obj/P_EX100_KH1F.a.us
+  multi:
+    - name: obj/P_EX100_NM_KH1F.a.us
+    - name: obj/P_EX100_TR_KH1F.a.us
+    - name: obj/P_EX100_WI_KH1F.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_KH1F.a.us
+    type: internal
+- name: obj/P_EX100_MAGF.a.us
+  multi:
+    - name: obj/P_EX100_NM_MAGF.a.us
+    - name: obj/P_EX100_TR_MAGF.a.us
+    - name: obj/P_EX100_WI_MAGF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_MAGF.a.us
+    type: internal
+- name: obj/P_EX100_TRIF.a.us
+  multi:
+    - name: obj/P_EX100_NM_TRIF.a.us
+    - name: obj/P_EX100_TR_TRIF.a.us
+    - name: obj/P_EX100_WI_TRIF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_TRIF.a.us
+    type: internal
+- name: obj/P_EX100_ULTF.a.us
+  multi:
+    - name: obj/P_EX100_NM_ULTF.a.us
+    - name: obj/P_EX100_TR_ULTF.a.us
+    - name: obj/P_EX100_WI_ULTF.a.us
+  method: copy
+  source:
+  - name: obj/P_EX100_XM_ULTF.a.us
+    type: internal
+
 - name: obj/P_EX100_HTLF.mdlx
   multi: 
   - name: obj/P_EX100_NM_HTLF.mdlx
